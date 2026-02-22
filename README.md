@@ -1,5 +1,5 @@
 <p align="center">
-![No Sensitive data is here](/.assets/lu-faq.png)
+![Lumen FAQ](/.assets/lu-faq.png)
 </p>
 
 # Lumen_MyOwnFaq
